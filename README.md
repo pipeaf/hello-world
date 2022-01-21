@@ -1,2 +1,3 @@
 # hello-world
-frist test repository
+first test repository
+This is just a test 
